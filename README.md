@@ -1,4 +1,4 @@
-# Thermodynamic modelling of pressure-temperature conditions in the northeastern Barents Sea since LGM
+# Thermodynamic modelling of post-LGM pressure-temperature conditions in the northeastern Barents Sea
 
 Code to solve the one-dimensional englacial and subglacial temperature evolution model presented in the article *Extensive glacitectonism and rapid deglacial fluid expulsion in the northeastern Barents Sea* submitted by Montelli et al.
 
